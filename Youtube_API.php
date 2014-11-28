@@ -8,7 +8,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title><?php echo $channel_name;?>'s Channel</title>
+<title><?php echo $channel_name;?>'s Channel by Prabakar</title>
 </head>
 <body>
     <div >
@@ -61,3 +61,4 @@
     </div>
 </body>
 </html>
+<!--This API is under licesed -->
